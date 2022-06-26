@@ -1,4 +1,4 @@
 # project2-react
 
 
-![image](https://user-images.githubusercontent.com/47796658/175835629-ae3bb1df-bfaf-499b-800a-2471abc24ac4.png)
+![image](https://user-images.githubusercontent.com/47796658/175835784-b59e2ac2-abf2-4b36-bd9d-310e3f68dc6f.png)
